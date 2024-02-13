@@ -1,0 +1,35 @@
+ body{
+    background-image: url(A.jpg);
+    display: grid;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 34px;
+    justify-content: center;
+    align-items: center;
+ }
+
+ form{
+    background-color: aliceblue;
+    border: 2px solid rgb(15, 15, 15);
+    border-radius: 43px 43px 43px;
+    width: 55vh;
+    height: 55vh;
+    text-align: center;
+    margin: -85px;
+    padding-top: 25px;
+ }
+ input{
+    border: 2px solid #e9d2d2;
+    border-radius: 20px 20px 20px 20px;
+    height: 19px;
+}
+h1{
+    text-align: center;
+    padding: 75px;
+    margin-left: -85px;
+    color: antiquewhite;
+ font-size: 45px;
+}
+div input{
+    background-color: darkgreen;
+}
